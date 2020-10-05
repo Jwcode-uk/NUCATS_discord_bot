@@ -28,7 +28,7 @@ client.on("message", function(message) {
               service:'gmail',
               auth:{
                 user: 'NUCATS.AUTH.NO.REPLY@gmail.com',
-                pass: '75Z9XZShVImb'
+                pass: '[PASSWORD HERE]'
               }
             });
 
